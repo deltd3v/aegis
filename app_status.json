@@ -1,0 +1,9 @@
+{
+    "status": "Operational",
+    "version": "1.0.1",
+    "modules": [
+        "logger",
+        "performance_tracker",
+        "status_checker"
+    ]
+}

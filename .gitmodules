@@ -1,0 +1,15 @@
+[submodule "repos/cs01__termpair"]
+	path = repos/cs01__termpair
+	url = https://github.com/cs01/termpair
+[submodule "repos/isopropylcyanide_Jwt-Spring-Security-JPA"]
+	path = repos/isopropylcyanide_Jwt-Spring-Security-JPA
+	url = https://github.com/isopropylcyanide/Jwt-Spring-Security-JPA
+[submodule "repos/llama.cpp"]
+	path = repos/llama.cpp
+	url = https://github.com/ggerganov/llama.cpp
+[submodule "repos/yezz123__authx"]
+	path = repos/yezz123__authx
+	url = https://github.com/yezz123/authx
+[submodule "tools/n8n-mcp"]
+	path = tools/n8n-mcp
+	url = https://github.com/czlonkowski/n8n-mcp
