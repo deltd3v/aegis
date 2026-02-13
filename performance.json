@@ -1,0 +1,48 @@
+{
+    "history": [
+        {
+            "timestamp": 1771016431.9522643,
+            "name": "Test Cycle Duration",
+            "value": 500.2782344818115,
+            "unit": "ms"
+        },
+        {
+            "timestamp": 1771016569.5260167,
+            "name": "Test Cycle Duration",
+            "value": 500.1552104949951,
+            "unit": "ms"
+        },
+        {
+            "timestamp": 1771016570.4272401,
+            "name": "Test Cycle Duration",
+            "value": 500.21982192993164,
+            "unit": "ms"
+        },
+        {
+            "timestamp": 1771016571.3173115,
+            "name": "Test Cycle Duration",
+            "value": 500.3690719604492,
+            "unit": "ms"
+        },
+        {
+            "timestamp": 1771016604.0893388,
+            "name": "Test Cycle Duration",
+            "value": 500.5536079406738,
+            "unit": "ms"
+        },
+        {
+            "timestamp": 1771016730.3308191,
+            "name": "Task Completion Rate",
+            "value": 45.45454545454545,
+            "unit": "%",
+            "readable_time": "Fri Feb 13 21:05:30 2026"
+        },
+        {
+            "timestamp": 1771016769.5736272,
+            "name": "Task Completion Rate",
+            "value": 45.45454545454545,
+            "unit": "%",
+            "readable_time": "Fri Feb 13 21:06:09 2026"
+        }
+    ]
+}
